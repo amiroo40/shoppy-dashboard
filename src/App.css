@@ -13,6 +13,9 @@
   }
 }
 
+.bg-hero-pattern{
+  background-image: url('./data/ec.jpg');
+}
 
 .e-dlg-center-center, .e-quick-popup-wrapper.e-device{
   z-index: 1000000 !important;
